@@ -1,4 +1,4 @@
-# Projeto WEB Portfólio
+# Projeto WEB
 
 ## Objetivo
 - Aplicar conhecimentos básicos em uma página WEB desenvolvendo outros pequenos projetos.
